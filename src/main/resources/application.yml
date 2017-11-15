@@ -1,0 +1,11 @@
+logging:
+  level:
+    org.springframework.web: DEBUG
+    com.wyj.wechat: DEBUG
+
+wechat:
+  mp:
+    appId: wx78b213e530a18456
+    secret: a5d95e32073e56255c0dd8b6f0ec9211
+    token: token
+    aesKey: IrpIAX4IrEmSCZShUD7IGqHbZNejrox8pv0r5V6GNb5
